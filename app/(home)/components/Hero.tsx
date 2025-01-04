@@ -14,7 +14,7 @@ export default function Hero() {
 
             <h1 className='text-4xl lg:text-7xl font-bold'>Nice to meet you! 👋<br/><span className='underline underline-offset-8 decoration-green-500'> I&apos;m Harish.</span></h1>
 
-        <p className='md:w-96 text-lg text-gray-300'>Based in India, I&apos;m a Java Developer dedicated to building innovative web solutions. I&apos;m passionate about learning new technologies and frameworks, and I&apos;m always looking for new opportunities to grow and improve my skills.</p>
+        <p className='md:w-96 text-lg text-gray-300'>Based in Chennai, India, I&apos;m a Java Developer dedicated to building innovative web solutions. I&apos;m passionate about learning new technologies and frameworks, and I&apos;m always looking for new opportunities to grow and improve my skills.</p>
 
 
         <Link className='inline-block group' href={'mailto:harishs1917@gmail.com'}
