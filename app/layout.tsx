@@ -21,11 +21,11 @@ export const metadata: Metadata = {
 	},
 
 	description:
-		"Based in India, I'm a software engineer who loves building things for the web. I'm passionate about learning new technologies and frameworks, and I'm always looking for new opportunities to grow and improve my skills.",
+		"Based in Chennai,India, I'm a Java Developer dedicated to building innovative web solutions. I'm passionate about learning new technologies and frameworks, and I'm always looking for new opportunities to grow and improve my skills.",
 	openGraph: {
 		title: "Harish",
 		description:
-			"Based in India, I'm a software engineer who loves building things for the web. I'm passionate about learning new technologies and frameworks, and I'm always looking for new opportunities to grow and improve my skills.",
+			"Based in Chennai,India, I'm a Java Developer dedicated to building innovative web solutions. I'm passionate about learning new technologies and frameworks, and I'm always looking for new opportunities to grow and improve my skills.",
 		url: "http://localhost:3000/",
 		siteName: "harish",
 		images: "/og.png",
