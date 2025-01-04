@@ -14,7 +14,7 @@ export default function Projects() {
             tite: 'Online Book Store (BookLab)',
             tech : [FaJava,SiHtml5,SiCss3,SiTailwindcss],
             link: "https://github.com/harish379/booklab",
-            cover: "/project1.png",
+            cover: "./project1.png",
             background : "bg-indigo-500",
 
         }
